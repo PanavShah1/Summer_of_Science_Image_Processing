@@ -8,7 +8,7 @@ Project taken up in Summer of Science conducted by the MnP club of IIT Bombay <b
 3. Image Segmentation 
 4. Image Enhancement
 
-Resources : <br>
+<h3>Resources</h3>
 PyTorch and Image Classification - https://www.youtube.com/watch?v=V_xro1bcAuA <br>
 Object Detection using PyTorch - https://www.youtube.com/watch?v=PPpKlPYL95c
 
