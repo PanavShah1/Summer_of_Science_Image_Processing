@@ -1,6 +1,7 @@
-<h2> Learning Processing </h2>
+<h2> Image Processing </h2>
 
 Project taken up in Summer of Science conducted by the MnP club of IIT Bombay <br>
+Project ID : CS11
 
 <h3> Goals </h3>
 1. Image Classification (CNN) <br>
